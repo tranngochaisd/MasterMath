@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "711716393642",
+    "project_id": "csdl-lordmath",
+    "storage_bucket": "csdl-lordmath.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711716393642:android:8d51011f21883b2d6ef6d3",
+        "android_client_info": {
+          "package_name": "com.example.math_lord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711716393642-fj9e5k9nnvfs86ms8cgmeb0h7jftpgal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.math_lord",
+            "certificate_hash": "06197911538f23cf4756d3e9cf6b81a2c99cf36e"
+          }
+        },
+        {
+          "client_id": "711716393642-vr82kkanu84a25a9qb87mt84j1j6oj5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisQbM1KNZ2RdmQhaqpvydPhyMZCCJF_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711716393642-vr82kkanu84a25a9qb87mt84j1j6oj5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
