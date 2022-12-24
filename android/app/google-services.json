@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693912937762",
+    "project_id": "mathlord-da0ea",
+    "storage_bucket": "mathlord-da0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693912937762:android:0fc9c988fd74e950cd717b",
+        "android_client_info": {
+          "package_name": "com.example.mastermath3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693912937762-954825sl1mplnakejj6kakeoi4pjmda4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGiv52S1QtaQPOQ6oXKMFwvE0WAx_dvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693912937762-954825sl1mplnakejj6kakeoi4pjmda4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
